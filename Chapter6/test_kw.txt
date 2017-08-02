@@ -1,0 +1,6 @@
+int "int"
+const abc0
+#define sizeof
+foo(int, char*); if(sizeof_a // int const
+abc1 /* char
+const */

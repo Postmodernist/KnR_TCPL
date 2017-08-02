@@ -1,0 +1,14 @@
+E notation                      37, 194
+EBCDIC character set            43
+dir.h include file              183
+EOF                             16, 151, 242
+efficiency                      51, 83, 88, 142, 187
+#else, #elif                    91, 232
+dir.h include file              183
+<errno.h> header                248
+exceptions                      248, 255
+#define                         14, 89, 229
+#define with arguments          89
+define preprocessor operator    21, 232
+E notation                      19
+EOF                             248

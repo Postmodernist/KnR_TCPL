@@ -1,0 +1,15 @@
+AlphaGo is made up of a number of relatively standard techniques: behavior
+cloning (supervised learning on human demonstration data), reinforcement
+learning (REINFORCE), value functions, and Monte Carlo Tree Search (MCTS).
+However, the way these components are combined is novel and not exactly
+standard. In particular, AlphaGo uses a SL (supervised learning) policy to
+initialize the learning of an RL (reinforcement learning) policy that gets
+perfected with self-play, which they then estimate a value function from,
+which then plugs into MCTS that (somewhat surprisingly) uses the (worse!,
+but more diverse) SL policy to sample rollouts. In addition, the policy/value
+nets are deep neural networks, so getting everything to work properly presents
+its own unique challenges (e.g. value function is trained in a tricky way to
+prevent overfitting). On all of these aspects, DeepMind has executed very well.
+That being said, AlphaGo does not by itself use any fundamental algorithmic
+breakthroughs in how we approach RL problems.
+

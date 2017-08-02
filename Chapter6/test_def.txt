@@ -1,0 +1,8 @@
+#define b 111fal0
+a b
+#define foo 123
+#what?
+define fine 4444paod
+#define a lamb
+milk is for a and b fine
+#

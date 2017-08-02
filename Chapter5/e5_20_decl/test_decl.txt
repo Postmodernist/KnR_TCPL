@@ -1,0 +1,18 @@
+int foo;
+static const unsigned long int a;
+int *foo;
+char **argv;
+int (*daytab)[13];
+int *daytab[13];
+int foo();
+void *comp();
+int foo(const char, long*);
+int foo(const char* (*)());
+void foo(int[]);
+struct { char* foo; } *bar;
+struct obj { int a : 2; int : 1; const char b[]; } foo;
+enum { A = 3, B, C } foo[];
+struct { int a; long double b; } (*foo)(enum A, int[]);
+void (*comp)();
+char (*(*x[3])())[5];
+char (*(*x())[])();

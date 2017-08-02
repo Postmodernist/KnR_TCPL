@@ -1,0 +1,24 @@
+"/* This is string literal, not comment */"
+
+Regular comment:
+
+/* Exercsise 1-23. */
+
+Comment inside quotes:
+
+'/* Exercsise 1-23. '
+
+Double quotes:
+
+"/* Exercsise 1-23. */"
+
+Mixed:
+
+/* /* Exercsise 1-23. */
+/* "Exercsise" '1-23.' */
+
+*/ - stray comment end
+
+Open comment:
+
+/* Exercsise 1-23.

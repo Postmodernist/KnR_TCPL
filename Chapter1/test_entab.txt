@@ -1,0 +1,9 @@
+    full spaces
+   stray space(s)
+*   partial spaces
+*** single aligned space
+  	mixed spaces and tab
+	full tab
+*	partial tab
+
+The fair    boy    was peering at	the reef      	through     screwed-up  eyes.

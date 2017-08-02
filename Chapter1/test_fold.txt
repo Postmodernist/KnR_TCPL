@@ -1,0 +1,28 @@
+Short line:
+
+"Where's the man with the megaphone?"
+
+Long line:
+
+The owner of the voice came backing out of the undergrowth so that twigs scratched on a greasy wind-breaker.
+
+Very long line:
+
+The naked crooks of his knees were plump, caught and scratched by thorns. He bent down, removed the thorns carefully, and turned around. He was shorter than the fair boy and very fat. He came forward, searching out safe lodgments for his feet, and then looked up through thick spectacles. The naked crooks of his knees were plump, caught and scratched by thorns. He bent down, removed the thorns carefully, and turned around. He was shorter than the fair boy and very fat. He came forward, searching out safe lodgments for his feet, and then looked up through thick spectacles. The naked crooks of his knees were plump, caught and scratched by thorns. He bent down, removed the thorns carefully, and turned around. He was shorter than the fair boy and very fat. He came forward, searching out safe lodgments for his feet, and then looked up through thick spectacles. The naked crooks of his knees were plump, caught and scratched by thorns. He bent down, removed the thorns carefully, and turned around. He was shorter than the fair boy and very fat. He came forward, searching out safe lodgments for his feet, and then looked up through thick spectacles.
+
+
+All-blanks line:
+
+                                                                                                   
+
+No-blanks line:
+
+Thefairboyshookhishead."Thisisanisland.AtleastIthinkit'sanisland.That'sareefoutinthesea.Perhapstherearen'tanygrownupsanywhere."
+
+Lines with tabs:
+
+He bent down, 	removed the thorns carefully, 	and turned around. He was shorter than the fair boy and very fat.
+
+He came forward, searching out safe lodgments for his feet, and then looked 	up through thick spectacles.
+
+                                                                             	end
