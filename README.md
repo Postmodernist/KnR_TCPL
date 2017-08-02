@@ -1,2 +1,2 @@
 # K&amp;R: TCPL all exercises
-Original code snippets and exercises from 'K&amp;R: The C Programming Language'
+Completed exercises and code snippets from 'K&amp;R: The C Programming Language'
